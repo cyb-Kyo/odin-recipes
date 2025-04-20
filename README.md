@@ -1,1 +1,2 @@
 # odin-recipes
+This project is part of The Odin Project's curriculum. It’s a basic HTML-only website that lists and links to a few recipes. The goal is to practice HTML structure, linking pages, and working with Git and GitHub.
